@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to bottom, red,orange,yellow,green);
+    text-align: center;
+}
+img{
+width:30%;
+}
+h4{
+    font-family: cursive;
+}
+ul { 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:red;
+}
+
+li {
+  float: left;
+}
+
+li {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
